@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliahmadjan&label=Profile%20views&color=0e75b6&style=flat" alt="aliahmadjan" /> </p>
 
-- 🔭 I’m currently working on **E-Filing System**
+- 🔭 I’m currently working on **Automation of Senate Of Pakistan**
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 📝 I regularly write articles on [https://medium.com/@i190572](https://medium.com/@i190572)
+- 📝 I regularly write articles on [https://medium.com/@aliahmadjan009](https://medium.com/@aliahmadjan009)
 
 - 💬 Ask me about **MERN Stack**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali ahmad jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali ahmad jan" height="30" width="40" /></a>
-<a href="https://medium.com/@19i0572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@19i0572" height="30" width="40" /></a>
+<a href="https://medium.com/@aliahmadjan009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@19i0572" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
